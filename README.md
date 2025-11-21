@@ -17,26 +17,22 @@ That unique moment. I realized that, with code, I had the power to build anythin
 
 Since then, I’ve remained deeply passionate about programming and constantly strive to learn more and become a better professional every day.
 
-<h2> 🎓 &nbsp;Lifelong Learner & Educator </h2
+<h2> 🎓 &nbsp;Lifelong Learner & Knowledge Sharer </h2
 
-One of the things I'm most passionate about is continuous learning and sharing knowledge with others. Since the beginning of my journey, I've been fascinated not only by solving complex problems with code but also by helping others understand and grow in their own paths.
+One of my greatest passions is continuous learning and knowledge sharing. Beyond just writing code, I am fascinated by the impact of sharing what I know. I have discovered that teaching is the best way to learn: explaining concepts makes me a sharper developer and a more empathetic team player. I constantly strive to be a better professional by supporting those around me.
 
-That's why I founded the <strong>[Full Stack Club](https://www.fullstackclub.com.br/)</strong>, a community where I mentor and support over <strong>3,000 aspiring developers</strong>. There, I teach practical skills in technologies like TypeScript, React, Node.js, and more — all with a hands-on, real-world approach focused on building solid careers in software engineering.
-
-I also run a [YouTube channel](https://www.youtube.com/@dicasparadevs) where I’ve been creating content for over 5 years. My videos have accumulated more than <strong>2.5 million views</strong>, and my React and Node.js courses are among the most watched in Brazil. Through my content, I aim to make high-quality programming education accessible and practical for everyone.
-
-Teaching helps me grow as much as coding does, and I'm always striving to be a better developer, mentor, and human being.
+Exchanging knowledge helps me grow just as much as writing code, and I constantly strive to be a better developer and human being.
 
 <h2> 📚 &nbsp;What will you find here?</h2>
 
 This GitHub is more than just a code repository — it's a reflection of my journey, experiences, and commitment to clean, purposeful software development. Whether you're a recruiter, a fellow developer, or someone learning to code, here's what you'll find:
 
-- Real-world projects used by thousands of users
+- Real-world projects focused on solving complex and practical problems.
 - Clean Architecture and SOLID principles in action
 - High test coverage with automated testing
 - Experiments, technical studies, and real-world best practices
   
-If you’d like to connect, collaborate, or have any questions, feel free to <a href="mailto:felipemota.rocha@gmail.com">click here and send me an email</a> — or reach out on <a href="https://www.linkedin.com/in/felipe-rocha-034871172/">LinkedIn</a>. I'm always open to good conversations and interesting opportunities.
+If you’d like to connect, collaborate, or have any questions, feel free to <a href="mailto:jonathanrodriguesgermano7@gmail.com">click here and send me an email</a> — or reach out on <a href="https://www.linkedin.com/in  /jonathan-germano-dev/">LinkedIn</a>. I'm always open to good conversations and interesting opportunities.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
