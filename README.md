@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Hey, I'm Jonathan Germano, a results-oriented Full Stack Developer!</h1>
+<h1>👋 &nbsp;Hey, I'm Jonathan Germano, a passionate Full Stack Developer!</h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/jonathan-germano-dev/"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/jongermano__/"><img src="https://img.shields.io/badge/-My%20Professional%20IG_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
@@ -10,9 +10,10 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-I'm a software engineer focused on full stack development, passionate about building scalable, modern, and well-architected solutions. I’ve worked on high-impact projects in Brazil, the UK, and the US, using technologies like TypeScript, React & React Native, Next.js, Node.js, Docker, AWS, Kafka, Kubernetes, PostgreSQL, microservices, and much more.
+I am a Full Stack Developer and CS Student currently optimizing public sector workflows. I build scalable solutions using TypeScript, React, Next.js, Node.js, and PostgreSQL, while driving operational efficiency through interactive dashboards and Power Automate workflows.    
 
-I wrote my first lines of code at age 11, when I wanted to create a private server for a game I loved at the time. After a lot of research, I finally got it online — and the feeling was magical. I realized I could customize anything just by writing code. That moment changed everything for me: I knew I wanted to become a developer.
+I wrote my first lines of code at age 17 with a simple goal: to create a page as a birthday gift for someone special. After hours of research and trial and error, seeing that finished page was magical.
+That unique moment. I realized that, with code, I had the power to build anything I could imagine. And that's when I understood: I wanted to be a developer.
 
 Since then, I’ve remained deeply passionate about programming and constantly strive to learn more and become a better professional every day.
 
