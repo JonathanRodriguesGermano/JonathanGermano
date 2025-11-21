@@ -50,9 +50,10 @@ If you’d like to connect, collaborate, or have any questions, feel free to <a 
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-laravel-333333?style=flat&logo=laravel)
+![PHP](https://img.shields.io/badge/-php-333333?style=flat&logo=php)
 
 <h2>🚀 &nbsp;My GitHub Stats</h2>
 
-![Felipe Rocha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipemotarocha&show_icons=true&theme=dracula)
+![Jonathan Germano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JonathanRodriguesGermano&show_icons=true&theme=tokyonight&include)
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanRodriguesGermano&layout=compact&langs_count=6&theme=tokyonight"/>
