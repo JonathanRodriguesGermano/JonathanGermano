@@ -32,7 +32,7 @@ This GitHub is more than just a code repository — it's a reflection of my jour
 - High test coverage with automated testing
 - Experiments, technical studies, and real-world best practices
   
-If you’d like to connect, collaborate, or have any questions, feel free to <a href="mailto:jonathanrodriguesgermano7@gmail.com">click here and send me an email</a> — or reach out on <a href="https://www.linkedin.com/in  /jonathan-germano-dev/">LinkedIn</a>. I'm always open to good conversations and interesting opportunities.
+If you’d like to connect, collaborate, or have any questions, feel free to <a href="mailto:jonathanrodriguesgermano7@gmail.com">click here and send me an email</a> — or reach out on <a href="https://www.linkedin.com/in/jonathan-germano-dev/">LinkedIn</a>. I'm always open to good conversations and interesting opportunities.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
@@ -45,22 +45,13 @@ If you’d like to connect, collaborate, or have any questions, feel free to <a 
 ![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwind-css)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
-![React Testing Library](https://img.shields.io/badge/-RTL-333333?style=flat&logo=testing-library)
-![Cypress](https://img.shields.io/badge/-Cypress-333333?style=flat&logo=cypress)
 
 <h3>⚙️ &nbsp;Back-end & databases:</h3>
 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql&logoColor=E535AB)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest&logoColor=E535AB)
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-web-services)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
-![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=apache-kafka)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 <h2>🚀 &nbsp;My GitHub Stats</h2>
 
